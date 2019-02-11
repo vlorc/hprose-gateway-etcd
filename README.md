@@ -16,7 +16,6 @@ Hprose gateway etcd service discovery based on golang
 + lazy client
 + discovery
 + register
-+ water
 
 ## Installing
 	go get github.com/vlorc/hprose-gateway-etcd

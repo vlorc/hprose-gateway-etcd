@@ -16,7 +16,6 @@
 + 惰性客户端
 + 服务发现
 + 注册器
-+ 监视器
 
 ## 安装
 	go get github.com/vlorc/hprose-gateway-etcd
